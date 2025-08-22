@@ -1,2 +1,2 @@
-# Hallo, Welt!
-***Wenn alles Überflüssige fällt, bleibt eine unerbittliche Kargheit zurück, die uns prüft, fordert und uns zwingt, die Essenz unseres Seins zu erkennen.***
+# Hello, World!
+***When all that is superfluous falls away, an unrelenting austerity remains, testing us, challenging us, and forcing us to recognize the essence of our being.***
