@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hallo, Welt!
 
-<!--
-**robntrbl/robntrbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen in einem minimalistischen, eleganten und klaren Stil – inspiriert von Apples Design-Philosophie in Schwarz und Weiß.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Über mich
+
+Ich bin **robntrbl** und schätze Einfachheit und Raffinesse in jedem Aspekt meiner Arbeit. Meine Projekte zeichnen sich durch eine klare, unverwechselbare Ästhetik aus, die sich auf das Wesentliche konzentriert, ohne Überflüssiges.
+
+---
+
+## Aktuelle Projekte
+
+- **Projekt 1:** Ein minimalistisches Beispielprojekt, das auf scharfe Kontraste in Schwarz und Weiß setzt.
+- **Projekt 2:** Ein weiteres Projekt, das sich auf Funktionalität und reine Ästhetik fokussiert.
+
+---
+
+## Kontakt
+
+- **GitHub:** [robntrbl](https://github.com/robntrbl)
+- **Email:** [deine.email@example.com](mailto:deine.email@example.com)
+
+Erleben Sie die Kraft der Reduktion – weniger ist mehr.
