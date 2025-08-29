@@ -25,8 +25,8 @@ My focus is on building technology that is **scalable, interpretable, and human-
 
 ## Connect
 
-- Web: coming soon  
-- Email: coming soon  
+- **Web**: coming soon  
+- **Email**: coming soon  
 
 ---
 
