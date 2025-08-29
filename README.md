@@ -1,4 +1,4 @@
-# Hi, I’m Robin
+# A quiet welcome for curious minds.
 
 I work at the intersection of **software engineering, machine intelligence, and design systems**.  
 My focus is on building technology that is **scalable, interpretable, and human-centered**.
