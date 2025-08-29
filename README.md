@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Robin  
 
-<!--
-**robntrbl/robntrbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of **software engineering, machine intelligence, and design systems**.  
+My focus is on building technology that is **scalable, interpretable, and human-centered**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Focus Areas
+- **Systems Engineering**: designing resilient, modular architectures  
+- **Artificial Intelligence**: applied ML, model evaluation, and deployment  
+- **Human-Computer Interaction**: minimal, accessible, and elegant interfaces  
+- **Open Knowledge**: sharing insights through code and research  
+
+---
+
+## 🛠️ Technical Stack
+- **Core Languages**: Python · TypeScript  
+- **Frameworks & Systems**: FastAPI · Node.js · Next.js · React  
+- **Interface Layer**: Tailwind · design systems for clarity and scale  
+- **AI & Data**: machine learning prototyping · data workflows · API-driven integration  
+
+---
+
+## 📬 Connect
+- 🌐 coming soon...(#)    
+- 📧 coming soon...(#)  
+
+---
+
+📊*Research-driven. Systematic. Always learning.*  
