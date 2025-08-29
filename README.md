@@ -1,11 +1,12 @@
-# 👋 Hi, I’m Robin  
+# Hi, I’m Robin
 
 I work at the intersection of **software engineering, machine intelligence, and design systems**.  
-My focus is on building technology that is **scalable, interpretable, and human-centered**.  
+My focus is on building technology that is **scalable, interpretable, and human-centered**.
 
 ---
 
-## 🚀 Focus Areas
+## Focus Areas
+
 - **Systems Engineering**: designing resilient, modular architectures  
 - **Artificial Intelligence**: applied ML, model evaluation, and deployment  
 - **Human-Computer Interaction**: minimal, accessible, and elegant interfaces  
@@ -13,7 +14,8 @@ My focus is on building technology that is **scalable, interpretable, and human-
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
+
 - **Core Languages**: Python · TypeScript  
 - **Frameworks & Systems**: FastAPI · Node.js · Next.js · React  
 - **Interface Layer**: Tailwind · design systems for clarity and scale  
@@ -21,10 +23,11 @@ My focus is on building technology that is **scalable, interpretable, and human-
 
 ---
 
-## 📬 Connect
-- 🌐 coming soon...(#)    
-- 📧 coming soon...(#)  
+## Connect
+
+- Web: coming soon  
+- Email: coming soon  
 
 ---
 
-📊*Research-driven. Systematic. Always learning.*  
+*Research-driven. Systematic. Always learning.*
