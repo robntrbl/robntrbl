@@ -25,9 +25,8 @@ My focus is on building technology that is **scalable, interpretable, and human-
 
 ## Connect
 
-- **Web**: coming soon  
-- **Email**: coming soon  
-
+- **Web**: robintriebel.com   
+- **Email**: hello@robintriebel.com
 ---
 
 *Research-driven. Systematic. Always learning.*
